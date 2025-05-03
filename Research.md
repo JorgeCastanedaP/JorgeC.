@@ -12,17 +12,17 @@ Using a logistic regression model, we analyzed employee data to predict the prob
 
 Throughout the project, we focused on:
 
-Understanding the dataset and its variables
+* Understanding the dataset and its variables
 
-Defining a clear analytical problem
+* Defining a clear analytical problem
 
-Cleaning and transforming the data
+* Cleaning and transforming the data
 
-Conducting thorough exploratory data analysis (EDA)
+* Conducting thorough exploratory data analysis (EDA)
 
-Building and interpreting a logistic regression model
+* Building and interpreting a logistic regression model
 
-Presenting actionable insights to management
+* Presenting actionable insights to management
 
 This experience strengthened my skills in data-driven storytelling, model interpretation, and collaborative problem-solving in a business context.            
     
