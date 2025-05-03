@@ -13,6 +13,6 @@ I am a Business Administration major with a concentration in Accounting at the S
 * __LinkedIn__: [https://www.linkedin.com/in/jorgecastanedaperez/](https://www.linkedin.com/in/jorgecastanedaperez/)  
       
 ## Career Interests:
-__Primary__: Public Accounting. I am currently on the 150-hour credit path to be able to start the process to obtain my CPA license after I graduate with my bachelors degree.         
+__Primary__: Public Accounting. I am currently on the 150-hour credit path to be able to start the process to obtain my CPA license after I graduate with my Bachelors Degree.         
          
 
