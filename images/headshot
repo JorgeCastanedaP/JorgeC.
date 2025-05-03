@@ -1,0 +1,7 @@
+your-repo/
+├── index.html
+└── images/
+    └── myphoto.jpg
+git add images/myphoto.jpg
+git commit -m "Add image"
+git push
