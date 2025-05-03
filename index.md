@@ -6,7 +6,7 @@ title: "Jorge Castaneda's Academic Home Page"
 ---
            
 # Welcome to my website! I am Jorge Castaneda
-I am a Business Administration major at the Scheller College of Business at Georgia Tech. I am concentrating in finance as well as pursing certificates in Finance and Business Analytics.  
+I am a Business Administration major with a concentration in Accounting at the Scheller College of Business at Georgia Tech. 
 * __Profile__: [**Link to my CV**](https://drive.google.com/file/d/19u9wH2TTQ1pg6dhXuwUIMmNM4hWzj1qs/view?usp=sharing)     
 * __Email__: [jorge.castaneda@gatech.edu](jorge.castaneda@gatech.edu)
 * __Website__: [https://jorgecastanedap.github.io/](https://jorgecastanedap.github.io/)
