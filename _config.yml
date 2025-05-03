@@ -17,7 +17,7 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "Research.md", title: "Projects"}
-  - {url: "https://drive.google.com/file/d/19u9wH2TTQ1pg6dhXuwUIMmNM4hWzj1qs/view?usp=sharing", title: "CV"}
+  - {url: "https://drive.google.com/file/d/1tbzwb9OTnQDk54j6zlJPmaO-R6uj3fzq/view?usp=sharing", title: "CV"}
   - {file: "Teaching.md", title: "Other"}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:jorge.castaneda@gatech.edu"}
