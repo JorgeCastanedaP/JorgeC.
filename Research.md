@@ -25,9 +25,9 @@ Throughout the project, we focused on:
 
 This experience strengthened my skills in data-driven storytelling, model interpretation, and collaborative problem-solving in a business context.            
     
-**Video**:
+**Video**: [HR Analutics Video](https://www.youtube.com/watch?v=Ev4Gm65dMtQ)
 
-**Workbook**:
+**Workbook**: [Google Colab Notebook](https://colab.research.google.com/drive/1gELpJ0Iygo3eN1rnpO5p6bNiIRBc_Jof)
 
 ---                                                                  
 
@@ -41,7 +41,7 @@ Additionally, we evaluated how traditional financial institutions have responded
 
 This project gave me a strong understanding of how financial innovation can democratize access to capital, and it deepened my appreciation for the evolving relationship between fintech platforms and legacy finance.
 
-**Presentation**:
+**Presentation**: [Kickstarter and Crowdfunding](https://docs.google.com/presentation/d/11mkB8LQr2bx5lzeWebGikoHzXxd0f8xEfpLBw59pwHc/edit?slide=id.p#slide=id.p)
 
 
 --- 
@@ -54,4 +54,4 @@ Throughout the project, we applied both technical and fundamental analysis to se
 
 This hands-on project helped me strengthen my skills in portfolio management, financial analysis, and investment strategy.
 
-**Final Report**: 
+**Final Report**: [Investment Report](https://drive.google.com/file/d/1OBW7U1ApTWdQvr26OjG9d-kVgHZzw3vF/view?usp=sharing)
