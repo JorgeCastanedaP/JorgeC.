@@ -1,22 +1,19 @@
 ---
 layout: page
-title: "Bo Li's Academic Home Page"
+title: "Jorge Castaneda's Academic Home Page"
 ---
 <img src="/images/BoLiHeadshot_GTSchellerCollegeOfBusiness.png" alt="Alt Text" width="840">          
 ---
            
-# Welcome to my website! I am Bo Li
-I am a Postdoctoral Fellow in Finance at Scheller College of Business, Georgia Institute of Technology. I obtained a Ph.D. in Finance at Arizona State University.  
+# Welcome to my website! I am Jorge Castaneda
+I am a Business Administration major at the Scheller College of Business at Georgia Tech. I am concentrating in finance as well as pursing certificates in Finance and Business Analytics.  
 * __Profile__: [**Link to my CV**](/files/GitHub_GoogleSite_ModernCV_BoLi_Aug_2024.pdf)     
-* __Email__: [bli96@gatech.edu](bli96@gatech.edu)
-* __Academic Website__:   
-    * __Google Site__: [https://sites.google.com/view/boli-finance](https://sites.google.com/view/boli-finance)    
-    * __Github__: [https://bolifinance.github.io/](https://bolifinance.github.io/)    
-    * __Website__: [https://www.boli-finance.com/](https://www.boli-finance.com/)    
+* __Email__: [jorge.castaneda@gatech.edu](jorge.castaneda@gatech.edu)
+* __Website__: [https://jorgecastanedap.github.io/](https://jorgecastanedap.github.io/)
+* __LinkedIn__: [https://www.linkedin.com/in/jorgecastanedaperez/](https://www.linkedin.com/in/jorgecastanedaperez/)  
       
-## Research Interest:
-__Primary__: Real Estate Finance, Household Finance, and Banking    
-__Secondary__: Business Cycle and Inequality     
+## Career Interests:
+__Primary__: Public Accounting. I am currently on the 150-hour credit path to be able to start the process to obtain my CPA license.         
 
 ## Georgia Tech Advisor:   
 Sudheer Chava [Website](https://www.scheller.gatech.edu/directory/faculty/chava/index.html); Email: sudheer.chava@scheller.gatech.edu  
