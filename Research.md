@@ -3,11 +3,28 @@ layout: page
 title: "Projects Page"
 --- 
 
-# Job Market Paper: 
-## Credit Expansion and Housing Cycle
+# HR Analytics Case: 
+## Attrition in a Firm
 
-<img align="left" src="/images/1st_Paint_JMP_HousePrice_And_Model_LongImage.png" alt="Alt Text" width="400" height="880"> 
-During the 1999-2009 U.S. housing cycle, two opposing empirical facts present a puzzle: the correlation between income growth and mortgage growth is negative across ZIP codes within metropolitan areas (some argue for the ‘credit expansion' view) but positive across metropolitan areas (others argue for the ‘speculation' view). First, I show that the cross-metropolitan phenomenon, in fact, is also consistent with the ‘credit expansion' view: by an instrumental variable approach, I show that net export growth across metropolitan areas causes both income growth and credit expansion in mortgage growth, which eventually leads to the housing cycle. I also design five tests with detailed measures to show that credit expansion rather than speculation plays the dominant role. Second, I develop a new theoretical model that, for the first time in the literature, reconciles the above two seemingly opposing empirical facts in the ‘credit expansion' view. Third, my theoretical model generates new predictions of ‘double differences' in the literature: the differential stronger boom and bust cycle in mortgages (and house prices) in low-income ZIP codes than in high-income ZIP codes within metropolitan areas is more pronounced in high net-export-growth metropolitan areas. I provide empirical causal evidence for these new predictions, further supporting the ‘credit expansion' view.            
+As part of a team project for my Business Programming course, I worked on a real-world case study for a fictional large company, XYZ, which faces an annual attrition rate of about 15%—affecting roughly 600 employees each year. Our goal was to help the company identify the key drivers of employee attrition and recommend actionable insights to improve retention.
+
+Using a logistic regression model, we analyzed employee data to predict the probability of attrition and determine which workplace factors most significantly impact employee turnover. I was responsible for data preprocessing, exploratory data analysis, and creating clear visualizations to support our findings.
+
+Throughout the project, we focused on:
+
+Understanding the dataset and its variables
+
+Defining a clear analytical problem
+
+Cleaning and transforming the data
+
+Conducting thorough exploratory data analysis (EDA)
+
+Building and interpreting a logistic regression model
+
+Presenting actionable insights to management
+
+This experience strengthened my skills in data-driven storytelling, model interpretation, and collaborative problem-solving in a business context.            
     
 **Presentation**: ASU PhD Seminar, ASU Browbag,  2024 Eastern Finance Association, Georgia Institute of Technology, 2024 Econ Graduate Students' Conference at WashU
 
