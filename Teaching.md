@@ -48,3 +48,20 @@ __Grocery Clerk/Grocery Department__
 •	Stepped in leadership positions on several occasions.
 
 •	Assisted in the training of 2 new hires.
+
+---
+
+
+# Coursework
+
+* Financial Management
+* Financial Accounting
+* Managerial Accounting
+* Quantitative Analysis of Business
+* Management Statistics
+* International Business
+* Legal Aspects of Business
+* Investments
+* Operations Management
+* Fintech
+* Business Programming
