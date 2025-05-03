@@ -2,7 +2,7 @@
 layout: page
 title: "Jorge Castaneda's Academic Home Page"
 ---
-<img src="/images/BoLiHeadshot_GTSchellerCollegeOfBusiness.png" alt="Alt Text" width="840">          
+<img src="/images/banner_headshot.PNG" alt="Alt Text" width="840">          
 ---
            
 # Welcome to my website! I am Jorge Castaneda
