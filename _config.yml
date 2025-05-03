@@ -1,6 +1,6 @@
-title: "Bo Li's Academic Website"
-author: "Bo Li"
-description: "Bo Li's Academic Website"
+title: "Jorge Castaneda's Academic Website"
+author: "Jorge Castaneda"
+description: "Jorge Castaneda's Academic Website"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -21,9 +21,9 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {url: "/files/GitHub_GoogleSite_ModernCV_BoLi_Aug_2024.pdf", title: "CV"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:bli96@gatech.edu"}
+  - {title: Mail, icon: envelope, url: "mailto:jorge.castaneda@gatech.edu"}
   - {title: Github, icon: github, url: "https://jiangzhiyiqin.github.com"}
-  - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/bo-li-3554ab50/"}
+  - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/jorgecastanedaperez/"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
