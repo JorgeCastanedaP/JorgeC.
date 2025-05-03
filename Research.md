@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Research Page"
+title: "Projects Page"
 --- 
 
 # Job Market Paper: 
